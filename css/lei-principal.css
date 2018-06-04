@@ -1,0 +1,190 @@
+body {
+	background: #ccc;
+}
+.container .navbar-default {
+	height: 100px;
+	border-radius: 0;
+	background: #fff;
+	border-bottom: 3px solid #888;
+}
+.navbar .container-fluid .navbar-header .navbar-brand  i {
+	font-weight: bold;
+	font-size: 19px;
+	color: #00d8f9;
+
+}
+.navbar .container-fluid .navbar-brand {
+	margin-top: -15px;
+}
+.navbar .container-fluid {
+	margin-top: 29px;
+}
+.navbar .container-fluid .navbar-nav li {
+	background: red;
+}
+.navbar .container-fluid .navbar-nav li a {
+	color: #353030;
+	font-weight: bold;
+	background: #fff;
+	font-size: 18px;
+}
+.container .jumbotron{
+	
+	color: #fff;
+	margin-top: -20px;
+	border-radius: 0;
+	height: auto;
+	margin-bottom: 10px;
+	background: url('../img/Banner.png') 0 0 no-repeat;
+	margin-bottom: -10px;
+}
+.container .jumbotron .welcome {
+	margin-right: 112px;
+}
+.container .jumbotron h2 {
+	text-align: center;
+}
+.container .jumbotron p {
+	text-align: justify;
+	background: rgba(6, 6, 1, .5);
+	padding: 5px;
+	border-radius: 6px;
+}
+.container .jumbotron .btn {
+	background: #00dbf7;
+	color: #fff;
+	width: 215px;
+}
+/* Secao 2 */
+.container .seccao-2 {
+	background: #fff;
+	height: auto;
+	margin-top: -5px;
+	margin: auto 0;
+	padding-bottom: 16px;
+}
+.container .seccao-2 .termos {
+	height: 100px;
+	border-left: 3px solid #ccc;
+	margin-top: 12px;
+	margin-left: 10px; 
+	margin-bottom: 10px;
+}
+.container .seccao-2 .termos a {
+	margin-left:  12px;
+	color: #353030;
+	font-size: 19px;
+}
+.container .seccao-2 .perguntas {
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+.container .seccao-2 .perguntas h5 {
+	text-align: center;
+	font-size: 19px;
+	color: #353030;
+}
+.container .seccao-2 .perguntas .row .img-responsive {
+	margin-left: 22px;
+	margin-top: -5px;
+}
+.container .seccao-2 .perguntas .row .formulario {
+	margin-left: -10%;
+}
+.container .seccao-2 .perguntas .row .formulario input[type="text"]{
+	border: 1px solid #353030;
+}
+.container .seccao-2 .perguntas .btn-default {
+	width: 150px;
+	margin-left: 39%;
+	margin-top: 18px;
+	border: 2px solid #353030;
+}
+.container .seccao-2  .listar {
+	margin-top: 22px;
+}
+.container .seccao-2  .listar .descre h5 {
+	color: #888;
+	font-weight: bold;
+	font-size: 16px;
+}
+.container .seccao-2  .listar img{
+	margin-left: 52px;
+
+}
+.container .sessao-3 {
+	height: 300px;
+	background: #00c7cd;
+	height: auto;
+	margin: auto 0;
+	padding-bottom: 20px;
+}
+.container .sessao-3 .row .area {
+	padding-bottom: 10px;
+}
+.container .sessao-3 .row .area h3 {
+	text-align: center;
+	margin-left: -9%;
+	text-transform: uppercase;
+	font-size: 19px;
+	color: #fff
+}
+.container .sessao-3 .row .area h3 a {
+	color: #fff;
+	text-decoration: none;
+}
+.container .sessao-3 .row .area h3 a:hover {
+	color:  #353030;
+}
+.container .sessao-3 .row .area img {
+	margin-left: 29%;
+	padding-bottom: 10px;
+	
+}
+.container .sessao-4 {
+	background: #fff;
+	margin: auto 0;
+	background: url('../img/back.jpg') 9% 10% no-repeat;
+	height: auto;
+	padding-bottom: 50px;
+}
+.container .sessao-4 .row .well {
+
+	margin-top: 90px;
+	border-radius: 5px;
+	border: 0;
+	background: rgba(0, 0, 0, .6);
+}
+.container .sessao-4 .row .well p {
+	color: #fff;
+	font-size: 39px;
+}
+.container .sessao-4 .row .descre  {
+	width: 50%;
+	margin-left: 12px;
+	border-radius: 0;
+}
+.container .sessao-4 .row .btn-default {
+	width: 250px;
+	margin-top: 36%;
+	margin-left: 30%;
+	height: 49px;
+	line-height: 10px;
+	background: transparent;
+	border: 1px solid #353030;
+	font-size: 22px;
+	color: #fff;
+}
+.container .sessao-4 .row .btn-default:hover {
+	color: #00c7cd;
+	background: #fff;
+	border: 1px solid #fff;
+}
+.container .sessao-4 h2 {
+	text-align: center;
+}
+.container .sessao-5 {
+	height: 300px;
+	background: #fff;
+	margin: auto 0;
+}
